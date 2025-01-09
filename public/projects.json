@@ -1,0 +1,213 @@
+{
+  "projects": [
+    {
+      "title": "Creo en mucho más que en la magia (WIP)",
+      "type": "direction",
+      "categories": ["fiction"],
+      "coverImage": "./assets/magia-portada.jpg",
+      "open": false
+    },
+    {
+      "title": "Por fortuna o por desgracia tú nunca morirás (WIP)",
+      "type": "direction",
+      "categories": ["fiction"],
+      "coverImage": "./assets/por-fortuna-portada.jpg",
+      "open": false
+    },
+    {
+      "title": "Radio Coral - Cabiria (WIP)",
+      "type": "direction",
+      "categories": ["videoclip"],
+      "coverImage": "./assets/coral-portada.jpeg",
+      "open": false
+    },
+    {
+      "title": "Te espero (como Hachiko) - AaGuille",
+      "type": "direction",
+      "categories": ["videoclip"],
+      "youtube": "https://www.youtube.com/watch?v=_YN_kgudYFg",
+      "coverImage": "./assets/te-espero-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "Nouvelle Vague - Plinio",
+      "type": "direction",
+      "categories": ["videoclip"],
+      "youtube": "https://www.youtube.com/watch?v=GT7zLvtv5hU",
+      "coverImage": "./assets/nouvelle-vague-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "El rastro de tu sangre en la nieve - Plinio",
+      "type": "direction",
+      "categories": ["videoclip"],
+      "youtube": "https://www.youtube.com/watch?v=mfhACvksgvc",
+      "coverImage": "./assets/rastro-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "UNTITLED PROYECT",
+      "type": "direction",
+      "categories": ["fashion-film"],
+      "youtube": "https://www.youtube.com/watch?v=ZV59EYGWLp0",
+      "coverImage": "./assets/untitled-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "En la habitación",
+      "type": "direction",
+      "categories": ["fashion-film"],
+      "youtube": "https://www.youtube.com/watch?v=8TMIL_hHXP4",
+      "coverImage": "./assets/habitacion-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "('. • ω •.`) ♡",
+      "type": "direction",
+      "categories": ["fashion-film"],
+      "youtube": "https://vimeo.com/851008632",
+      "coverImage": "./assets/uwu-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "A colorful Loner",
+      "type": "direction",
+      "categories": ["documentary"],
+      "youtube": "https://www.youtube.com/watch?v=hzdm_fOZbLY",
+      "coverImage": "./assets/colorful-loner.jpg",
+      "open": true
+    },
+    {
+      "title": "En Toronto no pasan estas cosas (WIP)",
+      "type": "photo",
+      "categories": ["fiction"],
+      "coverImage": "./assets/toronto-portada.jpeg",
+      "open": false
+    },
+    {
+      "title": "Creo en mucho más que en la magia (WIP)",
+      "type": "photo",
+      "categories": ["fiction"],
+      "coverImage": "./assets/magia-portada.jpg",
+      "open": false
+    },
+    {
+      "title": "Piel fina",
+      "type": "photo",
+      "categories": ["fiction"],
+      "coverImage": "./assets/piel-fina-portada.jpg",
+      "images": ["/assets/piel-fina1.jpg", "/assets/piel-fina2.jpg", "/assets/piel-fina3.jpg"],
+      "open": true,
+      "dir": "Antonio Muñoz de Mesa",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "imdb": "https://www.imdb.com/es-es/title/tt34599170/"
+
+    },
+    {
+      "title": "Un lugar de paso",
+      "type": "photo",
+      "categories": ["fiction"],
+      "youtube": "https://www.youtube.com/watch?v=XZ6HcsoDSkE",
+      "coverImage": "./assets/un-lugar-de-paso-portada.jpg",
+      "open": true,
+      "dir": "María Olmedilla",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "imdb": "https://www.imdb.com/es-es/title/tt34571238/?ref_=fn_all_ttl_1"
+    },
+    {
+      "title": "Las cosas que importan",
+      "type": "photo",
+      "categories": ["fiction"],
+      "coverImage": "./assets/las-cosas-que-importan-portada.jpg",
+      "images": ["/assets/las-cosas-1.jpg", "/assets/las-cosas-2.jpg", "/assets/las-cosas-3.jpg", "/assets/las-cosas-4.jpg"],
+      "open": true,
+      "dir": "María Olmedilla",
+      "photo": "Virginia Rita Luengo"
+
+    },
+    {
+      "title": "Cumplirás siempre la misión recibida",
+      "type": "photo",
+      "categories": ["fiction"],
+      "coverImage": "./assets/mision-portada.jpg",
+      "images": ["/assets/mision1.jpg", "/assets/mision2.jpg", "/assets/mision3.jpg", "/assets/mision4.jpg"],
+      "open": true,
+      "dir": "Carlos Urquijo",
+      "photo": "Virginia Rita Luengo"
+    },
+    {
+      "title": "Radio Coral - Cabiria (WIP)",
+      "type": "photo",
+      "categories": ["videoclip"],
+      "coverImage": "./assets/coral-portada.jpeg",
+      "open": false
+    },
+    {
+      "title": "El rastro de tu sangre en la nieve - Plinio",
+      "type": "photo",
+      "categories": ["videoclip"],
+      "youtube": "https://www.youtube.com/watch?v=mfhACvksgvc",
+      "coverImage": "./assets/rastro-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "('. • ω •.`) ♡",
+      "type": "photo",
+      "categories": ["fashion-film"],
+      "vimeo": "https://vimeo.com/851008632",
+      "coverImage": "./assets/uwu-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "En la habitación",
+      "type": "photo",
+      "categories": ["fashion-film"],
+      "youtube": "https://www.youtube.com/watch?v=8TMIL_hHXP4",
+      "coverImage": "./assets/habitacion-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "Nouvelle Vague - Plinio",
+      "type": "photo",
+      "categories": ["fashion-film"],
+      "youtube": "https://www.youtube.com/watch?v=GT7zLvtv5hU",
+      "coverImage": "./assets/nouvelle-vague-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "Alguien en algún lugar piensa esto",
+      "type": "photo",
+      "categories": ["documentary"],
+      "vimeo": "https://player.vimeo.com/video/889425836?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
+      "coverImage": "./assets/alguien-lugar.jpg",
+      "open": true,
+      "dir": "Manuela Gutiérrez Arrieta & Silke Struck & Sara González",
+      "photo": "Virginia Rita Luengo",
+      "imdb": "https://www.imdb.com/es-es/title/tt31149509/?ref_=nv_sr_srsg_6_tt_8_nm_0_in_0_q_alguien%2520en%2520algun"
+    },
+    {
+      "title": "The Myoutubeh of Sisyphus through The Wind Will Carry Us and Calendar",
+      "type": "essay",
+      "categories": ["essay"],
+      "youtube": "https://www.youtube.com/watch?v=9IvrOP2tuQA",
+      "coverImage": "./assets/the-myth-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "Rejection through languages",
+      "type": "essay",
+      "categories": ["essay"],
+      "youtube": "https://www.youtube.com/watch?v=eNbb65v4Ecc",
+      "coverImage": "./assets/rejection-portada.jpg",
+      "open": true
+    },
+    {
+      "title": "The hands of Terrence Malick",
+      "type": "essay",
+      "categories": ["essay"],
+      "youtube": "https://www.youtube.com/watch?v=XWDiQearHxQ",
+      "coverImage": "./assets/hands-portada.jpg",
+      "open": true
+    }
+  ]
+}
