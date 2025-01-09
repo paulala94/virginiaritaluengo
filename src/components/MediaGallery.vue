@@ -29,9 +29,8 @@
 </template>
 
 <script>
-import NavBarComponent from './NavBarComponent.vue'
-import DataFilter from './DataFilter.vue'
-// import axios from 'axios'
+import NavBarComponent from "./NavBarComponent.vue";
+import DataFilter from "./DataFilter.vue";
 
 export default {
     name: "MediaGallery",
@@ -67,70 +66,70 @@ export default {
                 { value: "documentary", label: "Documental" },
             ],
             activeFilter: "all",
-            projects: null
-        }
+            projects: null,
+        };
     },
     computed: {
         filteredProjects() {
-            return this.projects.filter(project => {
-                const matchesCategory = this.category === "all" || project.type === this.category
-                const matchesFilter = this.activeFilter === "all" || project.categories.includes(this.activeFilter)
-                return matchesCategory && matchesFilter
-            })
+            if (!this.projects) return [];
+            return this.projects.filter((project) => {
+                const matchesCategory = this.category === "all" || project.type === this.category;
+                const matchesFilter =
+                    this.activeFilter === "all" || project.categories.includes(this.activeFilter);
+                return matchesCategory && matchesFilter;
+            });
         },
         availableFilters() {
+            if (!this.projects) return [];
             const translations = {
                 fiction: "Ficción",
                 videoclip: "Videoclip",
                 "fashion-film": "Fashion Film",
                 documentary: "Documental",
-            }
+            };
 
-            const categories = new Set()
-            this.projects.forEach(project => {
-                project.categories.forEach(category => {
-                    if (category !== "essay") categories.add(category)
-                })
-            })
+            const categories = new Set();
+            this.projects.forEach((project) => {
+                project.categories.forEach((category) => {
+                    if (category !== "essay") categories.add(category);
+                });
+            });
 
-            return Array.from(categories).map(category => ({
+            return Array.from(categories).map((category) => ({
                 value: category,
                 label: translations[category] || category,
-            }))
-
+            }));
         },
     },
-
-
     methods: {
-
         goToProject(title) {
             this.$router.push({
-                name: "ProjectDetail", params: { id: title }, query: { category: this.category }
-            })
+                name: "ProjectDetail",
+                params: { id: title },
+                query: { category: this.category },
+            });
         },
         loadProjects() {
             fetch("/projects.json")
-                .then(response => {
+                .then((response) => {
                     if (!response.ok) {
                         throw new Error(`HTTP error! status: ${response.status}`);
                     }
                     return response.json();
                 })
-                .then(data => {
+                .then((data) => {
                     this.projects = data.projects;
                 })
-                .catch(error => console.error("Error cargando los proyectos:", error));
+                .catch((error) => console.error("Error cargando los proyectos:", error));
         },
         handleFilterChange(filterValue) {
-            this.activeFilter = this.activeFilter === filterValue ? "all" : filterValue
+            this.activeFilter = this.activeFilter === filterValue ? "all" : filterValue;
         },
     },
     mounted() {
-        this.loadProjects()
+        this.loadProjects();
     },
-}
-
+};
 </script>
 
 
