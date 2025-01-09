@@ -136,4 +136,46 @@ li img {
 .back img:hover {
     content: url('../assets/estrellaflecha.png');
 }
+
+@media (max-width: 768px) {
+    #info img {
+        width: 150px;
+    }
+
+    .info-box {
+        width: 90%;
+        margin: 0 auto;
+    }
+
+    #about-links a {
+        font-size: 12px;
+    }
+
+    .back img {
+        width: 25px;
+    }
+}
+
+@media (max-width: 480px) {
+    #container-about h1 {
+        font-size: 24px;
+    }
+
+    #info img {
+        width: 120px;
+    }
+
+    .info-box {
+        padding: 10px;
+        font-size: 14px;
+    }
+
+    #about-links a {
+        font-size: 11px;
+    }
+
+    .back img {
+        width: 20px;
+    }
+}
 </style>
