@@ -32,7 +32,9 @@
             </ul>
         </div>
         <div class="back">
-            <a href="/virginia-rita-luengo/"><img src='../assets/flecha.png' alt=""></a>
+            <router-link to="/">
+                <img src='../assets/flecha.png' alt="">
+            </router-link>
         </div>
     </div>
 </template>
