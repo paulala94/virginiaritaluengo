@@ -20,7 +20,7 @@
             </div>
 
             <div class="back">
-                <router-link to="/">
+                <router-link to="/" aria-label="Volver atrás">
                     <img src="../assets/flecha.png" alt="Back" />
                 </router-link>
             </div>

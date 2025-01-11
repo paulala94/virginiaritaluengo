@@ -13,7 +13,7 @@
 }
 
 .back img {
-    width: 3%;
+    width: 10%;
 }
 
 .back img:hover {
