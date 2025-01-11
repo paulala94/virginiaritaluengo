@@ -143,8 +143,10 @@ li img {
     }
 
     .info-box {
+        position: inherit;
         width: 90%;
-        margin: 0 auto;
+        margin: auto;
+        margin-top: 80px;
     }
 
     #about-links a {
@@ -153,6 +155,10 @@ li img {
 
     .back img {
         width: 25px;
+    }
+
+    li img {
+        width: 4%;
     }
 }
 
