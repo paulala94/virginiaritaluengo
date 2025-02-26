@@ -65,7 +65,7 @@
       "title": "('. • ω •.`) ♡",
       "type": "direction",
       "categories": ["fashion-film"],
-      "youtube": "https://vimeo.com/851008632",
+      "vimeo": "https://player.vimeo.com/video/851008632?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "coverImage": "./assets/uwu-portada.jpg",
       "open": true
     },
@@ -154,7 +154,7 @@
       "title": "('. • ω •.`) ♡",
       "type": "photo",
       "categories": ["fashion-film"],
-      "vimeo": "https://vimeo.com/851008632",
+      "vimeo": "https://player.vimeo.com/video/851008632?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "coverImage": "./assets/uwu-portada.jpg",
       "open": true
     },
@@ -164,14 +164,6 @@
       "categories": ["fashion-film"],
       "youtube": "https://www.youtube.com/watch?v=8TMIL_hHXP4",
       "coverImage": "./assets/habitacion-portada.jpg",
-      "open": true
-    },
-    {
-      "title": "Nouvelle Vague - Plinio",
-      "type": "photo",
-      "categories": ["fashion-film"],
-      "youtube": "https://www.youtube.com/watch?v=GT7zLvtv5hU",
-      "coverImage": "./assets/nouvelle-vague-portada.jpg",
       "open": true
     },
     {
