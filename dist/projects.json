@@ -1,11 +1,14 @@
 {
   "projects": [
     {
-      "title": "Creo en mucho más que en la magia (WIP)",
+      "title": "Creo en mucho más que en la magia",
       "type": "direction",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "open": false
+      "images": ["/assets/magia4.png", "/assets/magia3.png", "/assets/magia2.png", "/assets/magia1.png"],
+      "dir": "Virginia Rita Luengo",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "open": true
     },
     {
       "title": "Por fortuna o por desgracia tú nunca morirás (WIP)",
@@ -15,11 +18,12 @@
       "open": false
     },
     {
-      "title": "Radio Coral - Cabiria (WIP)",
+      "title": "Radio Coral - Cabiria (Out soon)",
       "type": "direction",
       "categories": ["videoclip"],
+      "youtube": "",
       "coverImage": "./assets/coral-portada.jpeg",
-      "open": false
+      "open": true
     },
     {
       "title": "Te espero (como Hachiko) - AaGuille",
@@ -65,7 +69,7 @@
       "title": "('. • ω •.`) ♡",
       "type": "direction",
       "categories": ["fashion-film"],
-      "youtube": "https://vimeo.com/851008632",
+      "vimeo": "https://player.vimeo.com/video/851008632?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "coverImage": "./assets/uwu-portada.jpg",
       "open": true
     },
@@ -78,7 +82,7 @@
       "open": true
     },
     {
-      "title": "En Toronto no pasan estas cosas (WIP)",
+      "title": "En Toronto no pasan estas cosas (not released)",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/toronto-portada.jpeg",
@@ -154,7 +158,7 @@
       "title": "('. • ω •.`) ♡",
       "type": "photo",
       "categories": ["fashion-film"],
-      "vimeo": "https://vimeo.com/851008632",
+      "vimeo": "https://player.vimeo.com/video/851008632?badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479",
       "coverImage": "./assets/uwu-portada.jpg",
       "open": true
     },
@@ -164,14 +168,6 @@
       "categories": ["fashion-film"],
       "youtube": "https://www.youtube.com/watch?v=8TMIL_hHXP4",
       "coverImage": "./assets/habitacion-portada.jpg",
-      "open": true
-    },
-    {
-      "title": "Nouvelle Vague - Plinio",
-      "type": "photo",
-      "categories": ["fashion-film"],
-      "youtube": "https://www.youtube.com/watch?v=GT7zLvtv5hU",
-      "coverImage": "./assets/nouvelle-vague-portada.jpg",
       "open": true
     },
     {

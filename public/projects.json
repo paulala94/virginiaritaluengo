@@ -1,11 +1,14 @@
 {
   "projects": [
     {
-      "title": "Creo en mucho más que en la magia (WIP)",
+      "title": "Creo en mucho más que en la magia",
       "type": "direction",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "open": false
+      "images": ["/assets/magia4.png", "/assets/magia3.png", "/assets/magia2.png", "/assets/magia1.png"],
+      "dir": "Virginia Rita Luengo",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "open": true
     },
     {
       "title": "Por fortuna o por desgracia tú nunca morirás (WIP)",
@@ -15,11 +18,12 @@
       "open": false
     },
     {
-      "title": "Radio Coral - Cabiria (WIP)",
+      "title": "Radio Coral - Cabiria (Out soon)",
       "type": "direction",
       "categories": ["videoclip"],
+      "youtube": "",
       "coverImage": "./assets/coral-portada.jpeg",
-      "open": false
+      "open": true
     },
     {
       "title": "Te espero (como Hachiko) - AaGuille",
@@ -78,7 +82,7 @@
       "open": true
     },
     {
-      "title": "En Toronto no pasan estas cosas (WIP)",
+      "title": "En Toronto no pasan estas cosas (not released)",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/toronto-portada.jpeg",
