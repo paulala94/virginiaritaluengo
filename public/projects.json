@@ -8,7 +8,8 @@
       "images": ["/assets/magia4.png", "/assets/magia3.png", "/assets/magia2.png", "/assets/magia1.png"],
       "dir": "Virginia Rita Luengo",
       "photo": "Virginia Rita Luengo & David D. Villegas",
-      "open": true
+      "open": true,
+      "imdb": "https://www.imdb.com/es-es/title/tt34586852/?ref_=nm_knf_t_1"
     },
     {
       "title": "Por fortuna o por desgracia tú nunca morirás (WIP)",
@@ -89,7 +90,7 @@
       "open": false
     },
     {
-      "title": "Creo en mucho más que en la magia (WIP)",
+      "title": "Creo en mucho más que en la magia",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
@@ -140,7 +141,7 @@
       "photo": "Virginia Rita Luengo"
     },
     {
-      "title": "Radio Coral - Cabiria (WIP)",
+      "title": "Radio Coral - Cabiria (Out soon)",
       "type": "photo",
       "categories": ["videoclip"],
       "coverImage": "./assets/coral-portada.jpeg",
