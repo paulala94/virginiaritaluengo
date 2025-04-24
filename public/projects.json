@@ -16,7 +16,10 @@
       "type": "direction",
       "categories": ["fiction"],
       "coverImage": "./assets/por-fortuna-portada.jpg",
-      "open": false
+      "img": "/assets/por-fortuna-portada.jpg",
+      "dir": "Virginia Rita Luengo",
+      "text": "Producido por Gelatina Películas & Los Ilusos Films.\nCon la financiación del ICAA y WoS.\nSeleccionado en Focus SCRIPT 2025 del Festival de Cannes.\nRodaje previsto: julio 2025",
+      "open": true
     },
     {
       "title": "Radio Coral - Cabiria (Out soon)",

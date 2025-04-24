@@ -27,8 +27,10 @@
 
             <div class="info-project">
                 <h2>{{ project.title }}</h2>
+                <img v-if="project.img" :src="project.img" alt="Imagen del proyecto" class="project-img" />
                 <p v-if="project.dir"><strong>Dir.</strong> {{ project.dir }}</p>
                 <p v-if="project.photo"><strong>Dirección de fotografía.</strong> {{ project.photo }}</p>
+                <p v-if="project.text" class="project-text">{{ project.text }}</p>
                 <a v-if="project.imdb" :href="project.imdb" target="_blank" rel="noopener noreferrer">IMDb</a>
             </div>
         </div>
@@ -45,11 +47,12 @@
 import BackArrow from './BackArrow.vue'
 import NavBarComponent from './NavBarComponent.vue'
 
+
 export default {
     name: 'ProjectDetail',
     components: {
         BackArrow,
-        NavBarComponent
+        NavBarComponent,
     },
     props: {
         title: {
@@ -169,12 +172,31 @@ a {
     justify-content: center;
 }
 
+.project-img {
+    display: block;
+    max-width: 50%;
+    margin: 20px auto;
+    border-radius: 10px;
+}
+
+.info-project {
+    text-align: center;
+}
+
 .info-project h2 {
     color: blue;
     font-size: 19px;
     font-weight: 400;
     font-style: italic;
     text-align: center;
+}
+
+.project-text {
+    white-space: pre-line;
+    text-align: center;
+    margin-top: 20px;
+    font-size: 16px;
+    line-height: 1.5;
 }
 
 .slider {
