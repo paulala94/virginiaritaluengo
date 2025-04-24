@@ -30,7 +30,20 @@
                 <img v-if="project.img" :src="project.img" alt="Imagen del proyecto" class="project-img" />
                 <p v-if="project.dir"><strong>Dir.</strong> {{ project.dir }}</p>
                 <p v-if="project.photo"><strong>Dirección de fotografía.</strong> {{ project.photo }}</p>
-                <p v-if="project.text" class="project-text">{{ project.text }}</p>
+                <p v-if="project.prod" class="project-prod"><strong style="color: blue;">Producido por</strong> {{
+                    project.prod }}</p>
+
+                <p v-if="project.money" class="project-money"><span style="color: black;">Con la financiación
+                        de </span>{{ project.money }}</p>
+                <p v-if="project.fest" class="project-fest"><span style="color: black;">Seleccionado
+                        en </span>{{ project.fest }}</p>
+                <p v-if="project.sdate" class="project-s-date blue-text">
+                    <span style="color: black;">Rodaje previsto: </span>
+                    {{ project.sdate }}
+                </p>
+
+
+
                 <a v-if="project.imdb" :href="project.imdb" target="_blank" rel="noopener noreferrer">IMDb</a>
             </div>
         </div>
@@ -151,6 +164,14 @@ strong {
 a {
     color: red;
     text-decoration: none;
+}
+
+.red-text {
+    color: red;
+}
+
+.blue-text {
+    color: blue;
 }
 
 .category-title {
