@@ -151,6 +151,7 @@
       "type": "photo",
       "categories": ["videoclip"],
       "coverImage": "./assets/coral-portada.jpeg",
+      "youtube": "https://www.youtube.com/watch?v=mdT22GgfAIA&ab_channel=Cabiria",
       "open": false
     },
     {
