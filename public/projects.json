@@ -25,10 +25,10 @@
       "open": true
     },
     {
-      "title": "Radio Coral - Cabiria (Out soon)",
+      "title": "Radio Coral - Cabiria",
       "type": "direction",
       "categories": ["videoclip"],
-      "youtube": "",
+      "youtube": "https://www.youtube.com/watch?v=mdT22GgfAIA&ab_channel=Cabiria",
       "coverImage": "./assets/coral-portada.jpeg",
       "open": true
     },
