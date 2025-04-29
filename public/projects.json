@@ -5,7 +5,7 @@
       "type": "direction",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "images": ["/assets/magia4.png", "/assets/magia3.png", "/assets/magia2.png", "/assets/magia1.png"],
+      "images": ["/assets/magia1.png", "/assets/magia2.png", "/assets/magia3.png", "/assets/magia4.png",  "/assets/magia5.png"],
       "dir": "Virginia Rita Luengo",
       "photo": "Virginia Rita Luengo & David D. Villegas",
       "prod": "Gelatina Películas",
@@ -102,8 +102,13 @@
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "open": false
-    },
+      "images": ["/assets/magia1.png", "/assets/magia2.png", "/assets/magia3.png", "/assets/magia4.png",  "/assets/magia5.png"],
+      "dir": "Virginia Rita Luengo",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "prod": "Gelatina Películas",
+      "fest": "D’a Film Fest y Go Short.",
+      "open": true,
+      "imdb": "https://www.imdb.com/es-es/title/tt34586852/?ref_=nm_knf_t_1"    },
     {
       "title": "Piel fina",
       "type": "photo",
@@ -152,9 +157,9 @@
       "title": "Radio Coral - Cabiria (Out soon)",
       "type": "photo",
       "categories": ["videoclip"],
+      "youtube": "https://youtu.be/mdT22GgfAIA?si=nZmRHbYMU_MZ0APR",
       "coverImage": "./assets/coral-portada.jpeg",
-      "youtube": "https://www.youtube.com/watch?v=mdT22GgfAIA&ab_channel=Cabiria",
-      "open": false
+      "open": true
     },
     {
       "title": "El rastro de tu sangre en la nieve - Plinio",
