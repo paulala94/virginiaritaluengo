@@ -5,7 +5,13 @@
       "type": "direction",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "images": ["/assets/magia1.png", "/assets/magia2.png", "/assets/magia3.png", "/assets/magia4.png",  "/assets/magia5.png"],
+      "images": [
+        "/assets/magia1.png",
+        "/assets/magia2.png",
+        "/assets/magia3.png",
+        "/assets/magia4.png",
+        "/assets/magia5.png"
+      ],
       "dir": "Virginia Rita Luengo",
       "photo": "Virginia Rita Luengo & David D. Villegas",
       "prod": "Gelatina Películas",
@@ -91,35 +97,50 @@
       "open": true
     },
     {
-      "title": "En Toronto no pasan estas cosas (not released)",
+      "title": "En Toronto no pasan estas cosas",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/toronto-portada.jpeg",
-      "open": false
+      "open": true,
+      "dir": "Manolo Orellana Naranjo",
+      "photo": "Virginia Rita Luengo & David D. Villegas",
+      "prod": "Elena Mecero Santos",
+      "vimeo": "https://player.vimeo.com/video/1118365047?h=a2246f89a1",
+      "imdb": "https://www.imdb.com/es-es/title/tt38350850/"
     },
     {
       "title": "Creo en mucho más que en la magia",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/magia-portada.jpg",
-      "images": ["/assets/magia1.png", "/assets/magia2.png", "/assets/magia3.png", "/assets/magia4.png",  "/assets/magia5.png"],
+      "images": [
+        "/assets/magia1.png",
+        "/assets/magia2.png",
+        "/assets/magia3.png",
+        "/assets/magia4.png",
+        "/assets/magia5.png"
+      ],
       "dir": "Virginia Rita Luengo",
       "photo": "Virginia Rita Luengo & David D. Villegas",
       "prod": "Gelatina Películas",
       "fest": "D’a Film Fest y Go Short.",
       "open": true,
-      "imdb": "https://www.imdb.com/es-es/title/tt34586852/?ref_=nm_knf_t_1"    },
+      "imdb": "https://www.imdb.com/es-es/title/tt34586852/?ref_=nm_knf_t_1"
+    },
     {
       "title": "Piel fina",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/piel-fina-portada.jpg",
-      "images": ["/assets/piel-fina1.jpg", "/assets/piel-fina2.jpg", "/assets/piel-fina3.jpg"],
+      "images": [
+        "/assets/piel-fina1.jpg",
+        "/assets/piel-fina2.jpg",
+        "/assets/piel-fina3.jpg"
+      ],
       "open": true,
       "dir": "Antonio Muñoz de Mesa",
       "photo": "Virginia Rita Luengo & David D. Villegas",
       "imdb": "https://www.imdb.com/es-es/title/tt34599170/"
-
     },
     {
       "title": "Un lugar de paso",
@@ -137,18 +158,27 @@
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/las-cosas-que-importan-portada.jpg",
-      "images": ["/assets/las-cosas-1.jpg", "/assets/las-cosas-2.jpg", "/assets/las-cosas-3.jpg", "/assets/las-cosas-4.jpg"],
+      "images": [
+        "/assets/las-cosas-1.jpg",
+        "/assets/las-cosas-2.jpg",
+        "/assets/las-cosas-3.jpg",
+        "/assets/las-cosas-4.jpg"
+      ],
       "open": true,
       "dir": "María Olmedilla",
       "photo": "Virginia Rita Luengo"
-
     },
     {
       "title": "Cumplirás siempre la misión recibida",
       "type": "photo",
       "categories": ["fiction"],
       "coverImage": "./assets/mision-portada.jpg",
-      "images": ["/assets/mision1.jpg", "/assets/mision2.jpg", "/assets/mision3.jpg", "/assets/mision4.jpg"],
+      "images": [
+        "/assets/mision1.jpg",
+        "/assets/mision2.jpg",
+        "/assets/mision3.jpg",
+        "/assets/mision4.jpg"
+      ],
       "open": true,
       "dir": "Carlos Urquijo",
       "photo": "Virginia Rita Luengo"
