@@ -38,7 +38,7 @@
                 <p v-if="project.fest" class="project-fest"><span style="color: black;">Seleccionado
                         en </span>{{ project.fest }}</p>
                 <p v-if="project.sdate" class="project-s-date blue-text">
-                    <span style="color: black;">Rodaje previsto: </span>
+                    <span style="color: black;"> </span>
                     {{ project.sdate }}
                 </p>
 
