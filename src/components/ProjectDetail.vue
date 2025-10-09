@@ -287,6 +287,14 @@ a {
     .slider .next {
         padding: 5px 10px;
         font-size: 14px;
+        background-color: rgba(240, 248, 255, 0);
+    }
+
+    p {
+        font-size: 15px;
+        width: 80%;
+        margin: auto;
+        padding-bottom: 5px;
     }
 }
 </style>
