@@ -8,36 +8,20 @@
 
             Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
             de fotografía por la Escuela de Cine de Madrid (ECAM).
-            Con su primer cortometraje
-            <div class="cursiva">Creo en mucho más que en la magia</div> producido por Gelatina Películas se muestra
-            en festivales como D’A Film, o Go Short. <div class="cursiva">Por fortuna o por desgracia tú nunca
-                morirás
+            Con su primer cortometraje <div class="cursiva">Creo en mucho más que en la magia</div> producido por
+            Gelatina Películas se muestra
+            en festivales como D’A Film, o Go Short. <div class="cursiva">Por fortuna o por desgracia tú nunca morirás
             </div>, su segundo
             cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoS Fabrique y va
             al
             Focus Script del Festival de Cannes. Actualmente se encuentra en el desarrollo de su primer largometraje
-            <div class="cursiva">La
-                vida es ahora</div>, de la mano de Gelatina Películas.
+            <div class="cursiva">La vida es ahora</div>, de la mano de Gelatina Películas.
             Como <div class="azul">directora de fotografía</div> ha trabajando con Antonio Muñoz de Mesa, Maria
             Olmedilla y Manolo Orellana
-            Naranjo entre otros.
-            Desarrolla su práctica como cineasta en los formatos de <div class="cursiva"></div>cortometraje,
-            videoclips
-            y videoarte
+            Naranjo entre otros. Desarrolla su práctica como cineasta en los formatos de <div class="cursiva"></div>
+            cortometraje,
+            videoclips y videoarte
         </div>.
-        Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
-        de
-        fotografía por la Escuela de Cine de Madrid (ECAM). Su interés principal es la <strong>narración
-            visual</strong>: entender cómo se puede hablar a través de las imágenes para contar las
-        <strong>historias</strong> desde la <strong>emoción</strong> y no la teoría.
-
-        Profesionalmente se ha desenvuelto en ambientes diversos. Realizó prácticas de programación en la
-        <strong>Filmoteca Española</strong> como editora de trailers.
-
-        En rodajes ha tenido la oportunidad de explorar los diversos campos del cine como
-        <strong>directora</strong> y <strong>directora de fotografía</strong> en diferentes cortometrajes,
-        documentales y videoclips. En muchos de estos proyectos también ha sido responsable de su edición y
-        <strong>etalonaje</strong>.
 
     </div>
     <div id="about-links">
