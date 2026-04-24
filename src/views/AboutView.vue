@@ -7,18 +7,16 @@
         <div class="info-box">
             <p>
                 Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
-                de
-                fotografía por la Escuela de Cine de Madrid (ECAM). Su interés principal es la <strong>narración
-                    visual</strong>: entender cómo se puede hablar a través de las imágenes para contar las
-                <strong>historias</strong> desde la <strong>emoción</strong> y no la teoría.
+                de fotografía por la Escuela de Cine de Madrid (ECAM).
+                Con su primer cortometraje ‘Creo en mucho más que en la magia’ producido por Gelatina Películas se
+                muestra en festivales como D’A Film, o Go Short. ‘Por fortuna o por desgracia tú nunca morirás’, su
+                segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoSFabrique
+                y va al Focus Script del Festival de Cannes. Actualmente se encuentra en el desarrollo de su primer
+                largometraje ‘La vida es ahora’, de la mano de Gelatina Películas.
+                Como directora de fotografía ha trabajando con Antonio Muñoz de Mesa, Maria Olmedilla y Manolo Orellana
+                Naranjo entre otros.
+                Desarrolla su práctica como cineasta en los formatos de cortometraje, videoclips y videoensayos.
 
-                Profesionalmente se ha desenvuelto en ambientes diversos. Realizó prácticas de programación en la
-                <strong>Filmoteca Española</strong> como editora de trailers.
-
-                En rodajes ha tenido la oportunidad de explorar los diversos campos del cine como
-                <strong>directora</strong> y <strong>directora de fotografía</strong> en diferentes cortometrajes,
-                documentales y videoclips. En muchos de estos proyectos también ha sido responsable de su edición y
-                <strong>etalonaje</strong>.
             </p>
         </div>
         <div id="about-links">
