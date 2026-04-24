@@ -5,24 +5,42 @@
             <img src="../assets/fotobio.jpg" alt="Virginia Rita Luengo">
         </div>
         <div class="info-box">
-            <p>
-                Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
-                de fotografía por la Escuela de Cine de Madrid (ECAM).
-                Con su primer cortometraje</p>
-            <div class="cursiva">Creo en mucho más que en la magia</div>
-            producido por Gelatina Películas se
-            muestra en festivales como D’A Film, o Go Short.
-            <div class="cursiva">Por fortuna o por desgracia tú nunca
-                morirás</div>, su segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la
-            residencia WoS Fabrique y va al Focus Script del Festival de Cannes. Actualmente se encuentra en el
-            desarrollo de su primer largometraje
-            <div class="cursiva">La vida es ahora</div>,<p> de la mano de Gelatina Películas.
-                Como </p><strong class="azul">directora de fotografía</strong>
-            ha trabajando con Antonio Muñoz de Mesa, Maria
-            Olmedilla y Manolo Orellana
-            Naranjo entre otros.
-            Desarrolla su práctica como cineasta en los formatos de <strong class="azul">cortometraje</strong>,
-            <strong class="azul">videoclips</strong> y <strong class="azul">videoarte</strong>.
+             <p>
+
+        Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
+
+        de fotografía por la Escuela de Cine de Madrid (ECAM).
+
+        Con su primer cortometraje
+
+        <span class="cursiva">Creo en mucho más que en la magia</span>,
+
+        producido por Gelatina Películas se muestra en festivales como D’A Film o Go Short.
+
+        <span class="cursiva">Por fortuna o por desgracia tú nunca morirás</span>,
+
+        su segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoS Fabrique
+
+        y va al Focus Script del Festival de Cannes.
+
+        Actualmente se encuentra en el desarrollo de su primer largometraje
+
+        <span class="cursiva">La vida es ahora</span>, de la mano de Gelatina Películas.
+
+        Como <strong class="azul">directora de fotografía</strong>
+
+        ha trabajado con Antonio Muñoz de Mesa, María Olmedilla y Manolo Orellana Naranjo entre otros.
+
+        Desarrolla su práctica como cineasta en los formatos de
+
+        <strong class="azul">cortometraje</strong>,
+
+        <strong class="azul">videoclips</strong> y
+
+        <strong class="azul">videoarte</strong>.
+
+    </p>
+                
         </div>
         <div id="about-links">
             <ul>
