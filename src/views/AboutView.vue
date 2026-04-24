@@ -10,21 +10,18 @@
                 de fotografía por la Escuela de Cine de Madrid (ECAM).
                 Con su primer cortometraje</p>
             <div class="cursiva">Creo en mucho más que en la magia</div>
-            <p>producido por Gelatina Películas se
-                muestra en festivales como D’A Film, o Go Short. </p>
+            producido por Gelatina Películas se
+            muestra en festivales como D’A Film, o Go Short.
             <div class="cursiva">Por fortuna o por desgracia tú nunca
-                morirás</div>
-            <p>, su
-                segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoS
-                Fabrique
-                y va al Focus Script del Festival de Cannes. Actualmente se encuentra en el desarrollo de su primer
-                largometraje</p>
+                morirás</div>, su segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la
+            residencia WoS Fabrique y va al Focus Script del Festival de Cannes. Actualmente se encuentra en el
+            desarrollo de su primer largometraje
             <div class="cursiva">La vida es ahora</div>,<p> de la mano de Gelatina Películas.
                 Como </p><strong class="azul">directora de fotografía</strong>
-            <p>ha trabajando con Antonio Muñoz de Mesa, Maria
-                Olmedilla y Manolo Orellana
-                Naranjo entre otros.
-                Desarrolla su práctica como cineasta en los formatos de </p><strong class="azul">cortometraje</strong>,
+            ha trabajando con Antonio Muñoz de Mesa, Maria
+            Olmedilla y Manolo Orellana
+            Naranjo entre otros.
+            Desarrolla su práctica como cineasta en los formatos de <strong class="azul">cortometraje</strong>,
             <strong class="azul">videoclips</strong> y <strong class="azul">videoarte</strong>.
         </div>
         <div id="about-links">
