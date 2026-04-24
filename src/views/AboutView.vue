@@ -5,41 +5,36 @@
             <img src="../assets/fotobio.jpg" alt="Virginia Rita Luengo">
         </div>
         <div class="info-box">
+            <p>
+                Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
+                de fotografía por la Escuela de Cine de Madrid (ECAM).
+                Con su primer cortometraje Creo en mucho más que en la magia’ producido por Gelatina Películas se
+                muestra en festivales como D’A Film, o Go Short. ‘Por fortuna o por desgracia tú nunca morirás’, su
+                segundo cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoSFabrique
+                y va al Focus Script del Festival de Cannes. Actualmente se encuentra en el desarrollo de su primer
+                largometraje ‘La vida es ahora’, de la mano de Gelatina Películas.
+                Como directora de fotografía ha trabajando con Antonio Muñoz de Mesa, Maria Olmedilla y Manolo Orellana
+                Naranjo entre otros.
+                Desarrolla su práctica como cineasta en los formatos de cortometraje, videoclips y videoensayos.
 
-            Licenciada en Comunicación Audiovisual en la Universidad Carlos III de Madrid y diplomada en dirección
-            de fotografía por la Escuela de Cine de Madrid (ECAM).
-            Con su primer cortometraje <div class="cursiva">Creo en mucho más que en la magia</div> producido por
-            Gelatina Películas se muestra
-            en festivales como D’A Film, o Go Short. <div class="cursiva">Por fortuna o por desgracia tú nunca morirás
-            </div>, su segundo
-            cortometraje producido por Los Ilusos Films y Gelatina Películas, gana la residencia WoS Fabrique y va
-            al
-            Focus Script del Festival de Cannes. Actualmente se encuentra en el desarrollo de su primer largometraje
-            <div class="cursiva">La vida es ahora</div>, de la mano de Gelatina Películas.
-            Como <div class="azul">directora de fotografía</div> ha trabajando con Antonio Muñoz de Mesa, Maria
-            Olmedilla y Manolo Orellana
-            Naranjo entre otros. Desarrolla su práctica como cineasta en los formatos de <div class="cursiva"></div>
-            cortometraje,
-            videoclips y videoarte
-        </div>.
-
+            </p>
+        </div>
+        <div id="about-links">
+            <ul>
+                <li><a href="https://www.instagram.com/virginiarit4/"><img src="../assets/star.png" alt="">Instagram</a>
+                </li>
+                <li><a href="https://www.imdb.com/name/nm15791950/?language=es-es"><img src="../assets/star.png"
+                            alt="">IMDb</a></li>
+                <li><a href="mailto:virginiaritaluengo@gmail.com">virginiaritaluengo@gmail.com</a><img
+                        src="../assets/star.png" alt=""></li>
+            </ul>
+        </div>
+        <div class="back">
+            <router-link to="/" aria-label="Volver atrás">
+                <img src='../assets/flecha.png' alt="">
+            </router-link>
+        </div>
     </div>
-    <div id="about-links">
-        <ul>
-            <li><a href="https://www.instagram.com/virginiarit4/"><img src="../assets/star.png" alt="">Instagram</a>
-            </li>
-            <li><a href="https://www.imdb.com/name/nm15791950/?language=es-es"><img src="../assets/star.png"
-                        alt="">IMDb</a></li>
-            <li><a href="mailto:virginiaritaluengo@gmail.com">virginiaritaluengo@gmail.com</a><img
-                    src="../assets/star.png" alt=""></li>
-        </ul>
-    </div>
-    <div class="back">
-        <router-link to="/" aria-label="Volver atrás">
-            <img src='../assets/flecha.png' alt="">
-        </router-link>
-    </div>
-
 </template>
 
 <script>
@@ -49,6 +44,15 @@ export default {
 </script>
 
 <style scoped>
+.cursiva {
+    color: blue;
+    font-style: italic;
+}
+
+.azul {
+    color: blue;
+}
+
 p {
     color: #4f4f4f;
 }
@@ -138,15 +142,6 @@ li img {
 
 .back img:hover {
     content: url('../assets/estrellaflecha.png');
-}
-
-.azul {
-    color: blue;
-}
-
-.cursiva {
-    color: blue;
-    font-style: italic;
 }
 
 @media (max-width: 768px) {
